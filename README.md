@@ -34,6 +34,4 @@ $ clj -m core
 [2019-12-10] Clojure の好きなところ (@nunulk)
 [2019-12-08] Clojureでkafka (@iku000888)
 [2019-12-03] ClojureでWebアプリケーションをつくるときに、Joda-Timeに依存しないようにする (@ayato_p)
-
-
 ```
