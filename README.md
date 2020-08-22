@@ -1,6 +1,6 @@
 # qiita-client-sample
 
-`Clojure` の最新記事を20件まで取得します
+`tag:Clojure` の最新記事を20件まで取得します
 
 ## アクセストークン
 
