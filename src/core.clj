@@ -4,7 +4,7 @@
             [org.httpkit.client :as http]))
 
 (def api-url
-  "https://qiita.com/api/v2/items?page=1&per_page=20&query=tag:Clojure")
+  "https://qiita.com/api/v2/items?query=tag:Clojure")
 
 (def options
   (let [{:keys [access-token]} (edn/read-string (slurp "settings.edn"))]
